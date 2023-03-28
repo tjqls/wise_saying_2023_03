@@ -13,7 +13,7 @@ public class App {
         System.out.println("== 명언 앱 ==");
         while (true){
             String command=sc.nextLine().trim();
-            
+
             if(command.equals("종료")){
                 break;
             }
